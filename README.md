@@ -8,5 +8,5 @@ This GitHub is a showcase of my journey, featuring a mix of experimental and pol
 
 Feel free to reach out to me via email for collaborations, discussions, or just to share your thoughts on the future of technology and sustainability. If you're a ChatGPT-Plus subscriber, why not have a chat with a virtual clone of me for fun? Let's explore the limitless possibilities together!
 
-[Virtual Me](https://chat.openai.com/g/g-7Vk47IFtS-virtual-merlin)
-[Email Me](mailto:merlin.hof02@icloud.com)
+Chat with the [Virtual Merlin](https://chat.openai.com/g/g-7Vk47IFtS-virtual-merlin)
+or just directly [Email Me](mailto:merlin.hof02@icloud.com) 😊
